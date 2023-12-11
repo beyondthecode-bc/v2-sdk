@@ -1,9 +1,9 @@
-import { Percent } from '@uniswap/sdk-core'
+import { Percent } from '@tendieswap/sdk-core'
 import JSBI from 'jsbi'
 
-export const FACTORY_ADDRESS = '0x5C69bEe701ef814a2B6a3EDD4B1652CB9cc5aA6f'
+export const FACTORY_ADDRESS = '0x6Df8506831cC904D35fAeCeF6D9D622148b47412'
 
-export const INIT_CODE_HASH = '0x96e8ac4277198ff8b6f785478aa9a39f403cb768dd02cbee326c3e7da348845f'
+export const INIT_CODE_HASH = '0x1024e09f849087602dab598936faca98b62a7f4eb84c434316fc8eaa2b4de68e'
 
 export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
 
